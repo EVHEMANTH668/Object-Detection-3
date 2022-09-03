@@ -1,0 +1,5 @@
+ rect(objects[0].x,objects[0].y,objects[0].width,objects[0].height);
+ 
+ 
+ 
+ document.getElementById("number_of_objects").innerHTML = "Number of objects detected are : "+ objects.length;

@@ -1,0 +1,47 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    height: max-content;
+    border-radius: 20px;
+    border:red solid 3px;
+    margin-top: 30px;
+}
+h1{
+    width: 100%;
+    height: min-content;
+    background-color: rgb(113, 13, 243);
+    margin-top: 0px;
+}
+
+body {
+    background-image:url("background.jpg");
+    background-size: cover;
+}
+
+#status {
+    font-size: 20px;
+    width: 40%;
+    height: 35px;
+}
+
+
+#number_of_objects {
+    font-size: 20px;
+    width: max-content;
+    height: 35px;
+    margin-left: 50px;
+    margin-top: -2px;
+}
+
+  
